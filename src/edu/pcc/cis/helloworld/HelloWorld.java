@@ -1,6 +1,11 @@
 package edu.pcc.cis.helloworld;
-
 import java.util.Date;
+
+/**
+ * @author Dylan Young
+ * @version 10.24.2017
+ */
+
 
 public class HelloWorld {
     public static void main(String[] args) {
