@@ -15,7 +15,7 @@ public class HelloWorld {
 
     private static void printGreeting()
     {
-       String greeting = "Hello World! This is my first repository!";
+       String greeting = "Hello World! This is my first repository!\nCan't wait to get the hang of Git!";
        System.out.println(greeting);
     }
 
